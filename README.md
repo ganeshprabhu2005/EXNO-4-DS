@@ -131,6 +131,5 @@ print(f"P-Value: {p}")
 
        
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
-        Thus the program to read the given data and perform Feature Scaling and Feature Selection process and
+        Thus the program to read the given data and perform Feature Scaling and Feature Selection process
         
