@@ -26,8 +26,8 @@ The feature selection techniques used are:
 # CODING AND OUTPUT:
        # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
        import pandas as pd
-import numpy as np
-import seaborn as sns
+       import numpy as np
+       import seaborn as sns
 
 
 from sklearn.model_selection import train_test_split
@@ -119,32 +119,6 @@ chi2,p,_,_=chi2_contingency(contingency_table)
 print(f"Chi-Square Statistics: {chi2}")
 print(f"P-Value: {p}")
 <img width="420" height="64" alt="image" src="https://github.com/user-attachments/assets/a0cf7c8c-3405-477d-9932-d21c106d75af" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
